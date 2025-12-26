@@ -1,4 +1,4 @@
-# introML
+# Machine Learning Journey
 
 Welcome to my Machine Learning Journey repository! This repo documents my learning experience as I take the Coursera course "Machine Learning" by Andrew Ng. I'll be sharing notes, code, learning logs, and videos about machine learning concepts.
 
